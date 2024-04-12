@@ -13,6 +13,13 @@
       "image": "https://sc1.musik-produktiv.com/pic-010120325l/ibanez-premium-gwb205-tqf-gary-willis.jpg",
       "price": 1500
     },
+     {
+      "id": 3,
+      "name": "Piano Keyboard",
+      "description": "Ibanez QX54QM Q Series Headless Guitar.",
+      "image": "https://d1aeri3ty3izns.cloudfront.net/media/68/682772/600/preview.jpg",
+      "price": 2000
+    },
     {
       "id": 3,
       "name": "Piano Keyboard",
