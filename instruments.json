@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Acoustic Guitar",
+      "description": "A six-stringed wooden instrument with a hollow body and soundhole.",
+      "image": "https://example.com/images/acoustic_guitar.jpg",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "Electric Guitar",
+      "description": "A six-stringed instrument with magnetic pickups for amplified sound.",
+      "image": "https://example.com/images/electric_guitar.jpg",
+      "price": 300
+    },
+    {
+      "id": 3,
+      "name": "Piano",
+      "description": "A large keyboard instrument with strings that produce sound when struck by hammers.",
+      "image": "https://example.com/images/piano.jpg",
+      "price": 500
+    }
+  ]
+  
