@@ -2,23 +2,23 @@
     {
       "id": 1,
       "name": "Acoustic Guitar",
-      "description": "A six-stringed wooden instrument with a hollow body and soundhole.",
-      "image": "https://example.com/images/acoustic_guitar.jpg",
-      "price": 200
+      "description": "Gibson J-45 Studio Rosewood Burst.",
+      "image": "https://sc1.musik-produktiv.com/pic-010121981xxl/gibson-j-45-studio-rosewood-burst.jpg",
+      "price": 2700
     },
     {
       "id": 2,
-      "name": "Electric Guitar",
-      "description": "A six-stringed instrument with magnetic pickups for amplified sound.",
-      "image": "https://example.com/images/electric_guitar.jpg",
-      "price": 300
+      "name": "Bass Guitar",
+      "description": "Ibanez Premium GWB205-TQF Gary Willis.",
+      "image": "https://sc1.musik-produktiv.com/pic-010120325l/ibanez-premium-gwb205-tqf-gary-willis.jpg",
+      "price": 1500
     },
     {
       "id": 3,
-      "name": "Piano",
-      "description": "A large keyboard instrument with strings that produce sound when struck by hammers.",
-      "image": "https://example.com/images/piano.jpg",
-      "price": 500
+      "name": "Piano Keyboard",
+      "description": "Yamaha PSR-SX900.",
+      "image": "https://www.yamaha.com/yamahavgn/PIM/Images/SX900_001_2000x2000_3e21ba69a60ae3bbe6fe817c0fcb6479.png",
+      "price": 2000
     }
   ]
   
